@@ -30,6 +30,8 @@ namespace XRD_ver2
         public FormMain()
         {
             InitializeComponent();
+            const string xrdparafolder = "XRD_ParameterData";
+            Directory.CreateDirectory(xrdparafolder);
 
             comboBox1.SelectedIndex = 0;
             comboBox2.SelectedIndex = 1;
