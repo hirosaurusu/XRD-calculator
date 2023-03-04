@@ -1,6 +1,6 @@
 # XRD-calculator
 
-1. How to use this app
+1. How to use this app  
  [XRD_calculator.exe] needs [XRD_ParameterData] folder, which restores the lattice constants and crystal structure information of various materials. 
 You cannot open this app if you miss this folder in the same directory. 
 The app covers cubic, hexagonal, and tetragonal crystal structures.
